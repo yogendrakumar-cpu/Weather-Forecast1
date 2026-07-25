@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Smart weather forecast app with real-time conditions, 7-day temperature trends, and personalized activity planning recommendations using Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
